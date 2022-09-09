@@ -14,4 +14,5 @@ int main(void)
 	{
 		putchar(cha);
 		return(0);
+	}
 }
