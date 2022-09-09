@@ -6,12 +6,14 @@
  *
  * Return: Always 0 (Success)
  */
-int main()
+int main(void)
 {
+	//Get the character to be written
 	char cha = 'a';
-	
-	for(cha='a' ; cha < 'z' ; cha++)
-		putchar (cha);
+
+	for( cha = 'a' ; cha <= 'z' ; cha++)
+		putchar(cha);
+		putchar('\n');
 
 	return(0);
 }
