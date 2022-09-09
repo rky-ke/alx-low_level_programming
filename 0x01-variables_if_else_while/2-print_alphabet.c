@@ -8,7 +8,7 @@
  */
 int main()
 {
-	Char cha = 'a';
+	char cha = 'a';
 	
 	putchar (cha);
 
