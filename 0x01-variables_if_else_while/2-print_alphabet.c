@@ -8,7 +8,6 @@
  */
 int main(void)
 {
-	//Get the character to be written
 	char cha = 'a';
 
 	for( cha = 'a' ; cha <= 'z' ; cha++)
