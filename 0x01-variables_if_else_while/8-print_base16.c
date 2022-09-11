@@ -7,10 +7,10 @@
  */
 int main(void)
 {
-int i;
+int d;
 
-for (i = '0' ; i <= '16' ; i++)
-	putchar (i);
+for (d = '0' ; d <= '16' ; d++)
+	putchar (d);
 putchar ('\n');
 return (0);
 }
