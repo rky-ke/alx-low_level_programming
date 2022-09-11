@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * Return : Always 0 (Success)
+ * Return : Always 0 (Successfuly returns the single digits from 0 to 9)
  */
 int main(void)
 {
