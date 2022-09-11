@@ -9,7 +9,7 @@ int main(void)
 	int i;
 
 	for (i = '0'; i <= '9'; i++)
-		printf("%c\n", i);
+		printf("%c", i'\n');
 	return (0);
 }
 
