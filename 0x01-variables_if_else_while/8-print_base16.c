@@ -6,9 +6,9 @@
  */
 int main(void)
 {
-	char d;
+	char d = '0';
 
-	for (d = '0' ; d <= '16' ; d++)
+	for ( ; d <= '16' ; d++)
 		putchar (d);
 	putchar ('\n');
 	return (0);
