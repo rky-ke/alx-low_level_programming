@@ -9,6 +9,12 @@ int main(void)
 	int a;
 
 	for (a = '0' ; a <= '9' ; a++)
-		putchar (a,);
+		putchar (a);
+		if (d != '9')
+		{
+			putchar (',');
+			putchar (' ');
+		}
+	putchar ('\ln');
 	return (0);
 }
