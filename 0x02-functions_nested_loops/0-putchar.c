@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * _putchar - writes the character c to stdout
+ * main - Entry point.
+ * Description: write a program that prints "_putchar" followed by a new line.
  *
- * @c: The character to print
+ * Return: Always 0 (Success.)
  */
 int main(void)
 {
