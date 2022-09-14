@@ -4,9 +4,9 @@
  *
  * @c: The character to print
  */
-int main(void)                                                           
-{                                                                        
-	putchar('_');
+int main(void)
+{
+	putchar('');
 	_putchar('p');
 	_putchar('u');
 	_putchar('t');
