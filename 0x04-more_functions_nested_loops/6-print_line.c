@@ -6,7 +6,7 @@
  */
 void print_line(int n)
 {
-	ibt co;
+	int co;
 
 	if (n <= 0)
 	{
