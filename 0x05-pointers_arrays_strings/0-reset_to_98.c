@@ -15,7 +15,7 @@ int main(void)
 	p = &n;
 	n = 402;
 
-	printf("n=%d\n", n);
+	printf("p=%d\n", p);
 	reset_to_98(&n);
 	printf("n=%d\n", n);
 	return 0;
