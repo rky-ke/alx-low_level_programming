@@ -2,9 +2,9 @@
 #include <stdio.h>
 #include <string.h>
 /**
- * prints a string s, in reverse
- * followed by a new line.
- *
+ * print_rev - prints a string in reverse
+ * followed by a new line
+ * @s: string character
  * Return: nothing
  */
 void print_rev(char *s)
