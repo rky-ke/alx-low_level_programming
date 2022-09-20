@@ -11,7 +11,7 @@ void rev_string(char *s)
 	char aux;
 
 	while (s[len] != '\0')
-		len++
+		len++;
 	while (i < len--)
 	{
 		aux = s[i];
