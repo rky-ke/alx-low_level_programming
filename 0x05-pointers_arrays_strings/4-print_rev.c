@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 /**
- * prints a string, in reverse
+ * prints a string s, in reverse
  * followed by a new line.
  *
  * Return: nothing
