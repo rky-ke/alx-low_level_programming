@@ -1,15 +1,6 @@
 # **0x06. C - More pointers, arrays and strings**
-
-
-
 ## Requirements
-
-
-
 ## General
-
-
-
 *    Allowed editors: vi, vim, emacs
 
 *    All your files will be compiled on Ubuntu 14.04 LTS
