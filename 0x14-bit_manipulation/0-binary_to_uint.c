@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include "mainn.h"
+=======
+#include "main.h"
+>>>>>>> 30cb3a78d8293e37609fd605dfbe167d5339165a
 
 /**
  * binary_to_uint - A finction that converts binary number
